@@ -96,3 +96,6 @@ sudo apt-get install -f
 
 sudo apt install net-tools -y
 sudo apt-get install build-essential gcc make perl dkms -y
+
+echo 'installing Spotify'
+snap install spotify

@@ -99,3 +99,6 @@ sudo apt-get install build-essential gcc make perl dkms -y
 
 echo 'installing Spotify'
 snap install spotify
+
+echo 'installing Skype'
+sudo snap install skype --classic
